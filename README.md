@@ -47,14 +47,14 @@ Aqui estão algumas de suas principais funcionalidades:
 
 ### Através da plataforma do GitHub:
 
-Inicialmente criei um novo repositório, e como já visto não devemos fazer alterações direto na “main”, por tanto criei uma nova branch clicando na opção New branch (lado direito superior).
+  Inicialmente criei um novo repositório, e como já visto não devemos fazer alterações direto na “main”, por tanto criei uma nova branch clicando na opção New branch (lado direito superior).
 
-Na nova branch criada adicionei um novo 'arquivo.md' clicando em 
+  Na nova branch criada adicionei um novo 'arquivo.md' clicando em 
 'Add file' e escrevi uma passagem do livro de Machado de Assis "Memórias Póstumas de Brás Cubas" e realizei o commit. Confira: <a href="https://github.com/lirazootech/learn-github/blob/35028e51e92637c9a121679992b6f029fe87556f/arquivo.md" target="_blank">arquivo.md</a>.
 
 ### Criando e gerenciando uma Issue:
 
-Ao criar o repositório não havia adicionado um arquivo 'README' contendo a descrição informativa, então quando foi solicitado a criação de uma Issue, pensei por bem criar uma nova Issue solicitando não só a criação de um arquivo README, mas também uma descrição detalhada sobre o repositório e ao que se propõe. Como mostra a imagem abaixo:
+  Ao criar o repositório não havia adicionado um arquivo 'README' contendo a descrição informativa, então quando foi solicitado a criação de uma Issue, pensei por bem criar uma nova Issue solicitando não só a criação de um arquivo README, mas também uma descrição detalhada sobre o repositório e ao que se propõe. Como mostra a imagem abaixo:
 
 | ![Issue](https://github.com/lirazootech/learn-github/blob/7989983b45bee39a61f5c422311333084fa6de18/Captura%204.PNG) |
 |:--:|
@@ -62,7 +62,7 @@ Ao criar o repositório não havia adicionado um arquivo 'README' contendo a des
 
 ### Criando Discussions
 
-Na aba "Discussions" e depois em "New discussion" criei uma nova discussão e selecionei a categoria ideia, pois gostaria de simular uma discussão em que um colaborador lança mão de algumas ideias para melhorar o projeto.
+  Na aba "Discussions" e depois em "New discussion" criei uma nova discussão e selecionei a categoria ideia, pois gostaria de simular uma discussão em que um colaborador lança mão de algumas ideias para melhorar o projeto.
 
 | ![Discussion](https://github.com/lirazootech/learn-github/blob/9fd6eff78ec047dbb978078a3ed17f1ce72cbded/Captura%207.PNG) |
 |:--:|
@@ -72,8 +72,6 @@ As ideias foram enviadas e em seguida eu respondi. Marquei minha resposta como a
 | ![Discussion](https://github.com/lirazootech/learn-github/blob/9fd6eff78ec047dbb978078a3ed17f1ce72cbded/Captura%208.PNG) |
 |:--:|
 **Ao criar uma nova Discussão é possível compreender como elas se diferenciam das issues.**
-
-Onde:
 
 **Issues (Problemas): Detalhes específicos, como bugs e melhorias.**
 
@@ -94,15 +92,17 @@ Onde:
 - São mais abertas e flexíveis, permitindo conversas sem limitações específicas
 - Não podem ser fechadas, mas podem ser resolvidas ou bloqueadas.
 
-| ![GitHub4Women](https://github.com/lirazootech/learn-github/blob/13f7473c547782275246e2b00c7f11f785a6285c/Octacat.PNG) |
+Em resumo:
+
+| ![OctaCat](https://github.com/lirazootech/learn-github/blob/13f7473c547782275246e2b00c7f11f785a6285c/Octacat.PNG) |
 |:--:|
-| Em resumo, Issues são específicos e acionáveis, enquanto Discussões são mais abertas e colaborativas. |
+| Issues são específicos e acionáveis, enquanto Discussões são mais abertas e colaborativas. |
 
 ### Trabalhando com Pull Requests
 
-Na aba "Pull requests" cliquei em "New pull request" para criar uma nova solicitação Pull, selecione a branch base (onde as mudanças foram integradas) e o branch compare (de onde as mudanças vêm). Então usei a branch criada anteriormente, no inicio do exercicio e cliquei em "Create pull request".
+  Na aba "Pull requests" cliquei em "New pull request" para criar uma nova solicitação Pull, selecione a branch base (onde as mudanças foram integradas) e o branch compare (de onde as mudanças vêm). Então usei a branch criada anteriormente, no inicio do exercicio e cliquei em "Create pull request".
 
-Adicionei "Closes #1" na descrição para linkar a issue correspondente e em seguida conclui o Pull Request clicando em “ merge pull request “.
+  Adicionei "Closes #1" na descrição para linkar a issue correspondente e em seguida conclui o Pull Request clicando em “ merge pull request “.
 
 | ![Discussion](https://github.com/lirazootech/learn-github/blob/eabac5479b7b0127d2407bf5d548e20bb1372526/Captura%206.PNG) |
 |:--:|
@@ -137,9 +137,9 @@ Com a utilização de um Pull request para o fechamento de uma Issue criada ante
 
 ### Criando e Gerenciando Wikis
 
-A Wiki no GitHub é uma seção onde podemos hospedar documentação para o seu repositório. Ela permite que outras pessoas usem e contribuam com o projeto. Podemos usar a Wiki para compartilhar conteúdo detalhado sobre o nosso projeto, como instruções de uso, design ou princípios fundamentais. É uma maneira de fornecer informações mais extensas além do arquivo README.
+  A Wiki no GitHub é uma seção onde podemos hospedar documentação para o seu repositório. Ela permite que outras pessoas usem e contribuam com o projeto. Podemos usar a Wiki para compartilhar conteúdo detalhado sobre o nosso projeto, como instruções de uso, design ou princípios fundamentais. É uma maneira de fornecer informações mais extensas além do arquivo README.
 
-Na aba "Wiki" no repositório cliquei em "Create the first page" e editei a página de Wiki usando Markdown. A visibilidade das Wikis segue a configuração de privacidade do repositório.
+  Na aba "Wiki" no repositório cliquei em "Create the first page" e editei a página de Wiki usando Markdown. A visibilidade das Wikis segue a configuração de privacidade do repositório.
 
 | ![Wiki](https://github.com/lirazootech/learn-github/blob/c181d275746981b7aab96e49331d9d313127d489/Captura%209.PNG) |
 |:--:|
@@ -147,7 +147,7 @@ Na aba "Wiki" no repositório cliquei em "Create the first page" e editei a pág
 
 ## 🚀 Resultados
 
-A utilização da interface do GitHub acelera o processo de criação e desenvolvimento, com uma interface amigável possibilita uma organização visual pouco poluída, além de deixar disponível informações importantes do processo de desenvolvimento para um melhor controle de versão.
+  A utilização da interface do GitHub acelera o processo de criação e desenvolvimento, com uma interface amigável possibilita uma organização visual pouco poluída, além de deixar disponível informações importantes do processo de desenvolvimento para um melhor controle de versão.
 
 | [![Microsoft](https://github.com/lirazootech/GitHub4Women-Modulo2/blob/069ae05de973dca5391bc9b6efc8389c71abc934/Microsoft.png)]() |
 |:--:|
