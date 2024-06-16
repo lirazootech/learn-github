@@ -25,23 +25,23 @@ Aqui estão algumas de suas principais funcionalidades:
 
 #### **Colaboração:**
 
-***Contribuição rápida:*** Nos possibilita configurar automaticamente ambientes de desenvolvimento para contribuir com projetos.
+- ***Contribuição rápida:*** Nos possibilita configurar automaticamente ambientes de desenvolvimento para contribuir com projetos.
 
-***Pull requests:*** Permite que colaboradores notifiquem sobre alterações em um repositório e facilmente mesclam as mudanças aceitas.
+- ***Pull requests:*** Permite que colaboradores notifiquem sobre alterações em um repositório e facilmente mesclam as mudanças aceitas.
 
-***Discussões:*** Espaço dedicado para a comunidade fazer perguntas e ter conversas abertas.
+- ***Discussões:*** Espaço dedicado para a comunidade fazer perguntas e ter conversas abertas.
 
-***Pesquisa e visualização de código:*** Nos permite buscar, navegar e compreender rapidamente o código diretamente no <a href="https://github.com/" target="_blank">GitHub.com</a>. 
+- ***Pesquisa e visualização de código:*** Nos permite buscar, navegar e compreender rapidamente o código diretamente no <a href="https://github.com/" target="_blank">GitHub.com</a>. 
 
-***Notificações:*** Nos permite receber atualizações sobre atividades que seguimos.
+- ***Notificações:*** Nos permite receber atualizações sobre atividades que seguimos.
 
 #### **Automação e CI/CD:**
 
-***GitHub Copilot:*** Sugestões de linhas ou funções inteiras diretamente no editor.
+- ***GitHub Copilot:*** Sugestões de linhas ou funções inteiras diretamente no editor.
 
-***Automação:*** Nos permite automatizar processos como CI/CD, testes, gerenciamento de projetos e mais.
+- ***Automação:*** Nos permite automatizar processos como CI/CD, testes, gerenciamento de projetos e mais.
 
-***Integrações:*** Nos permite personalizar nosso fluxo de trabalho com integrações para revisão de código, gerenciamento de projetos e muito mais.
+- ***Integrações:*** Nos permite personalizar nosso fluxo de trabalho com integrações para revisão de código, gerenciamento de projetos e muito mais.
 
 ## 🧐 Processo de Criação
 
