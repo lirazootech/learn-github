@@ -154,4 +154,6 @@ Com a utilização de um Pull request para o fechamento de uma Issue criada ante
 | [![maismulheres.tech](https://github.com/lirazootech/GitHub4Women-Modulo2/blob/069ae05de973dca5391bc9b6efc8389c71abc934/maismulheres.tech.png)](https://www.maismulheres.tech/) |
 | Este curso é oferecido pela Microsoft em parceria com a WoMakersCODE através da plataforma maismulheres.tech com o objetivo de capacitar e inserir mais mulheres na tecnologia. Ao final do curso, após avaliação as participantes concorrem à premiação do voucher para a certificação GitHub Foundations. |
 
-Copyright © 2024. Feito com 🧡 por <a href="https://github.com/lirazootech/" target="_blank">lirazootech</a>.
+<p align="center">
+Copyright © 2024. Feito com 🧡 por <a  href="https://lirazootech.vercel.app/" target=_blank">lirazootech</a>.
+</p>
